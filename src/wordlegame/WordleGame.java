@@ -14,7 +14,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/*i did a new change*/
+
 /**
  * WordleGame - A simple implementation of the Wordle game.
  *
